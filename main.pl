@@ -56,7 +56,7 @@ sub check_menu {
 }
 
 sub clear {
-  #system("clear");
+  system("clear");
 }
 
 sub debug_say {
